@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GOGO_LIVE.iml" filepath="$PROJECT_DIR$/.idea/GOGO_LIVE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lyngsat.iml" filepath="$PROJECT_DIR$/.idea/lyngsat.iml" />
+    </modules>
+  </component>
+</project>
